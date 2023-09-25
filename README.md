@@ -1,4 +1,4 @@
-# Wiener Netze Smartmeter Integration for Home Assistant
+# Netz Noe Smartmeter Integration for Home Assistant
 
 [![codecov](https://codecov.io/gh/DarwinsBuddy/WienerNetzeSmartmeter/branch/main/graph/badge.svg?token=ACYNOG1WFW)](https://codecov.io/gh/DarwinsBuddy/WienerNetzeSmartmeter)
 ![Tests](https://github.com/DarwinsBuddy/WienerNetzeSmartMeter/actions/workflows/test.yml/badge.svg)
